@@ -1,0 +1,15 @@
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\bin\Debug\net8.0\Tarea1p2.exe
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\bin\Debug\net8.0\Tarea1p2.deps.json
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\bin\Debug\net8.0\Tarea1p2.runtimeconfig.json
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\bin\Debug\net8.0\Tarea1p2.dll
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\bin\Debug\net8.0\Tarea1p2.pdb
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.AssemblyInfoInputs.cache
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.AssemblyInfo.cs
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.csproj.CoreCompileInputs.cache
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.sourcelink.json
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.dll
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\refint\Tarea1p2.dll
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.pdb
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\Tarea1p2.genruntimeconfig.cache
+C:\c# proyect\ProyectosITLA\Tarea1p2Miembros_comunidad\Tarea1p2\obj\Debug\net8.0\ref\Tarea1p2.dll
